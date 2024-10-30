@@ -1,2 +1,3 @@
 utils.py
 __pycache__/
+lightning_logs/
